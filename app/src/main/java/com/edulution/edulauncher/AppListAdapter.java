@@ -1,4 +1,4 @@
-package ch.arnab.simplelauncher;
+package com.edulution.edulauncher;
 
 import android.annotation.TargetApi;
 import android.content.Context;

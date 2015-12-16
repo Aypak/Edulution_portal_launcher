@@ -1,4 +1,4 @@
-package ch.arnab.simplelauncher;
+package com.edulution.edulauncher;
 
 import android.content.Context;
 import android.content.pm.ApplicationInfo;
